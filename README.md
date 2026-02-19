@@ -29,6 +29,7 @@ npm run dev
 
 ### Frontend
 npm install
+npm run dev
 
 ## Project Status
 - [x] Initial structure
