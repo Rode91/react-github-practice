@@ -55,8 +55,6 @@ npm install
 npm run dev
 
 <img width="434" height="465" alt="image" src="https://github.com/user-attachments/assets/d447de98-5208-478b-af72-8c32e48871bd" />
-📷 Preview
-
 
 Aprendizajes
 
