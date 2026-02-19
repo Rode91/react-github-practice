@@ -8,10 +8,27 @@ The goal is to practice building a structured React application
 following good development practices.
 
 ## Tech Stack
-- React
-- JavaScript
-- HTML & CSS
-- Git & GitHub
+- React (Vite)
+- Node.js
+- Express
+- MySQL
+
+## Features
+- Create users
+- List users
+- Email validation
+- Duplicate prevention
+
+## Architecture
+Frontend → API Client → Express → Service → Model → MySQL
+
+## Run locally
+### Backend
+npm install
+npm run dev
+
+### Frontend
+npm install
 
 ## Project Status
 - [x] Initial structure
